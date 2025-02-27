@@ -33,7 +33,7 @@ This project is a library management system implemented in Java. It demonstrates
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/library-system.git
+   git clone https://github.com/yourusername/Library-System.git
    
 2. Navigate to the project directory:
    ```cd LibrarySystem```
