@@ -18,9 +18,9 @@ This project is a library management system implemented in Java. It demonstrates
 
 - **Single Responsibility Principle (SRP)**: Each class has a single responsibility.
 - **Open/Closed Principle (OCP)**: Classes are open for extension but closed for modification.
-- **Liskov Substitution Principle (LSP)**: Subtypes can replace their base types.
-- **Interface Segregation Principle (ISP)**: Interfaces are specific to the needs of the client.
-- **Dependency Inversion Principle (DIP)**: High-level modules depend on abstractions.
+- **Liskov Substitution Principle (LSP)**: Subclasses should be able to override/implement methods of the base class without issues.
+- **Interface Segregation Principle (ISP)**: A class should not be implementing interfaces it does not use.
+- **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
 ## Getting Started
 
